@@ -1,2 +1,2 @@
-# DIO-INSTAGRAM
-Desafio da DIO, recriando página inicial do instagram.
+# Instagram Projeto - Página Inicial
+Recriando página inicial do instagram.
